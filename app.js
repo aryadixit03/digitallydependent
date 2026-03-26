@@ -105,7 +105,7 @@ const policies = [
       "Targets certain revenues earned by large digital firms in Canadian digital markets.",
     date: "Federal tax tool tied to the 2024 calendar year",
     matters:
-      "It uses taxation as a market tool while also creating cross-border political pressure.",
+      "It uses taxation as a market tool while also creating cross-border political pressure. Halted in 2025 due to US pressure.",
   },
 ];
 
@@ -136,7 +136,7 @@ const timeline = [
     date: "2024",
     title: "Digital Services Tax intensifies trade and diplomatic debate",
     description:
-      "Tax policy, trade relations, and digital market governance become visibly linked.",
+      "Tax policy, trade relations, and digital market governance become visibly linked. DST halted in 2025 due to US pressure.",
   },
 ];
 
